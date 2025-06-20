@@ -1,0 +1,20 @@
+
+{
+  "name": "gordium-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@solana/wallet-adapter-react": "^0.15.21",
+    "@solana/wallet-adapter-wallets": "^0.15.20",
+    "@solana/wallet-adapter-react-ui": "^0.15.19",
+    "@solana/web3.js": "^1.76.0"
+  }
+}
